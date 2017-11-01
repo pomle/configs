@@ -1,7 +1,10 @@
 {
-	"font_size": 11,
-	"draw_white_space": "all",
-	"trim_trailing_white_space_on_save": true,
-	"default_line_ending": "unix",
-	"translate_tabs_to_spaces": true
+    "default_line_ending": "unix",
+    "draw_white_space": "all",
+    "ensure_newline_at_eof_on_save": true,
+    "font_size": 11,
+    "translate_tabs_to_spaces": true,
+    "show_encoding": true,
+    "show_line_endings": true,
+    "trim_trailing_white_space_on_save": true
 }
